@@ -69,7 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # 01-firebase-google-login-tutorial
-# 01-firebase-google-login-tutorial
-# 01-firebase-google-login-tutorial
-# firebase-google-login-tutorial
-# firebase-google-login-tutorial
